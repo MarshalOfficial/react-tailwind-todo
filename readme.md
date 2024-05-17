@@ -9,3 +9,6 @@ https://tailwindcss.com/docs/guides/vite
 add this settings in file association of vscode settings: \*.css -> tailwind.css
 and also turn on editor quick suggestion for strings on in the settings
 then remove app.css file
+
+install this icon package
+npm i lucide-react
